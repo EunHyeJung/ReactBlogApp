@@ -27,7 +27,7 @@ function App() {
       <button onClick={ 제목변경 }>버튼</button>
       <div className="list">
         <h3> {글제목[0]} <span onClick={() => { {좋아요변경(좋아요 + 1) } }}>👍</span>{좋아요}</h3>
-        <p>2월 17일 발행</p>
+        <p>2월 26일 발행</p>
         <hr/>
       </div>        
       <div className="list">

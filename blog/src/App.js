@@ -32,7 +32,7 @@ function App() {
       </div>        
       <div className="list">
         <h3> {글제목[1]}</h3>
-        <p>2월 17일 발행</p>
+        <p>9월 27일 발행</p>
         <hr/>
       </div>
       
